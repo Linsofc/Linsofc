@@ -1,20 +1,71 @@
-![Linsofc](/header.png)
-![solo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXB0bGZnZzdhb3gyYm54aWEzcXF4bDB2aWt5M3B1bXg0eWRkbHVkZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ySvhFxq6Z4LrbqaikJ/giphy.gif)
-<!-- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> -->
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<!-- Header / Banner -->
+<p align="center">
+  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Saiful+Rijal!;Welcome+to+my+GitHub+Profile!;Fullstack+Developer+%7C+Script+Maker" alt="Typing SVG" />
+</p>
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=py,html,css,react,ts&perline=6)](https://skillicons.dev) -->
+<!-- GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ySvhFxq6Z4LrbqaikJ/giphy.gif" width="400" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Linsofc&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![Linsofc](https://github-readme-stats.vercel.app/api?username=Linsofc&show_icons=true&theme=radical)
+<a href="https://www.youtube.com/@LinsOfficiall"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+## 🚀 Tech Stack
+<p align="center">
+  
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/php-%23000000.svg?style=for-the-badge&logo=php&logoColor=white" />
 
+  <!-- Web -->
+  <br/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 
+  <!-- Cloud -->
+  <br/>
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" />
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rijalsavior) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saiful-rijal-14817a32b) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@LinsOfficiall) 
+</p>
 
+<a href="https://www.youtube.com/@LinsOfficiall"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-![](https://github-profile-trophy.vercel.app/?username=Linsofc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Linsofc&show_icons=true&theme=radical&hide_border=false" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linsofc&layout=compact&theme=radical&hide_border=false" height="165"/>
+</p>
 
+<a href="https://www.youtube.com/@LinsOfficiall"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Linsofc&theme=radical&no-frame=false&no-bg=true&margin-w=8" />
+</p>
+
+<a href="https://www.youtube.com/@LinsOfficiall"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+## 🔗 Connect With Me
+<p align="center">
+  <a href="https://instagram.com/rijalsavior">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/saiful-rijal-14817a32b">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@LinsOfficiall">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
+  </a>
+</p>
+
+<a href="https://www.youtube.com/@LinsOfficiall"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
