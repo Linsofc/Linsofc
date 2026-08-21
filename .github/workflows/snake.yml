@@ -3,27 +3,39 @@ name: Generate Contribution Snake
 on:
   schedule:
     - cron: "0 */12 * * *"
+
   workflow_dispatch:
+
   push:
     branches:
       - main
 
+# Memberikan izin kepada GITHUB_TOKEN untuk membuat/update
+# branch output.
+permissions:
+  contents: write
+
 jobs:
   generate:
+    name: Generate Snake
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
-      - uses: Platane/snk/svg-only@v3
+      # Generate contribution snake
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Linsofc
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?palette=github
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      # Publish SVG ke branch output
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output
           build_dir: dist
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
