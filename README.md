@@ -3,81 +3,140 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Saiful+Rijal+(Linsofc)!;Welcome+to+my+GitHub+Profile!;Fullstack+Developer+%7C+Script+Maker;Owner+of+Linsofc+Store" alt="Hi I'm Saiful Rijal Linsofc" />
 </p>
 
-<p align="center">
-  I am a <strong>Fullstack Developer</strong> and Script Maker from Indonesia. I am widely known online as <strong>Linsofc</strong>. 
-  <br>
-  I create content on YouTube as <strong>Lins Official</strong> and manage <a href="https://linsofc-store.vercel.app"><strong>Linsofc Store</strong></a>
-  <br>
-</p>
+<div align="center">
+  <img src="./logo/dark_circle.png" width="100" alt="Linsofc"/>
+  <br/><br/>
+  <a href="https://linsofc.my.id">
+    <img src="https://img.shields.io/badge/-linsofc.my.id-1B6FEB?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://github.com/Linsofc?tab=followers">
+    <img src="https://img.shields.io/github/followers/Linsofc?style=flat-square&label=Followers&color=1B6FEB&labelColor=161b22&logoColor=white" alt="Followers"/>
+  </a>
+  <a href="https://github.com/Linsofc?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-34-1B6FEB?style=flat-square&labelColor=161b22" alt="Repos"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Linsofc&style=flat-square&color=1B6FEB&label=Profile+Views&labelColor=161b22" alt="Profile Views"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.youtube.com/@LinsOfficiall"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider"></a>
+</div>
+
 <p align="center">
   <img src="https://media.giphy.com/media/ySvhFxq6Z4LrbqaikJ/giphy.gif" width="400" alt="Coding GIF Linsofc" />
 </p>
 
 <div align="center">
-  <a href="https://www.youtube.com/@LinsOfficiall"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Lins Official Divider"></a>
+  <a href="https://www.youtube.com/@LinsOfficiall"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider"></a>
 </div>
 
-## 🚀 Tech Stack & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/php-%23000000.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" width="55%">
 
-  <br/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+### About Me
 
-  <br/>
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="DigitalOcean" />
-</p>
+I'm a **Fullstack Developer** and **Script Maker** based in **Sampang, East Java, Indonesia**. I build web apps, automation bots, and digital tools — focused on writing code that is clean, fast, and purposeful.
+
+Known online as **Linsofc**, I also create content on YouTube under [Lins Official](https://youtube.com/@LinsOfficiall) and manage [Linsofc Store](https://linsofc-store.vercel.app) — a digital products store.
+
+```yaml
+name       : Saiful Rijal
+alias      : Linsofc
+location   : Sampang, East Java · Indonesia
+focus      : Fullstack Development Bot & Script Automation
+currently  : Shipping projects & learning new things
+email      : saifulrijal@linsofc.my.id
+```
+
+</td>
+</tr>
+</table>
 
 <div align="center">
   <a href="https://www.youtube.com/@LinsOfficiall"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider"></a>
 </div>
 
-## 📊 GitHub Stats of Linsofc
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Linsofc&show_icons=true&theme=radical&hide_border=false" height="165" alt="Linsofc GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linsofc&layout=compact&theme=radical&hide_border=false" height="165" alt="Linsofc Top Languages"/>
-</p>
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,php&theme=dark" alt="Languages"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwind&theme=dark" alt="Frontend"/>
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mysql,postgres,mongodb&theme=dark" alt="Backend"/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,cloudflare,linux,vscode&theme=dark" alt="Tools"/>
+
+</div>
 
 <div align="center">
   <a href="https://www.youtube.com/@LinsOfficiall"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider"></a>
 </div>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Linsofc&theme=radical&no-frame=false&no-bg=true&margin-w=8" alt="Linsofc Trophies" />
-</p>
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Linsofc&layout=compact&hide_border=true&bg_color=0d1117&title_color=1B6FEB&text_color=94a3b8&langs_count=8" height="155" alt="Top Languages">
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Linsofc&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1B6FEB&fire=F5C518&currStreakLabel=1B6FEB&sideLabels=94a3b8&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" height="155" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Linsofc&bg_color=0d1117&color=94a3b8&line=1B6FEB&point=F5C518&area=true&area_color=1B6FEB&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Linsofc/Linsofc/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+</div>
 
 <div align="center">
   <a href="https://www.youtube.com/@LinsOfficiall"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider"></a>
 </div>
 
-## 🔗 Connect With Me (Linsofc)
-<p align="center">
-  <a href="https://instagram.com/rijalsavior">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram Linsofc" />
-  </a>
-  <a href="https://www.linkedin.com/in/saiful-rijal-14817a32b">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Saiful Rijal" />
-  </a>
-  <a href="https://youtube.com/@LinsOfficiall">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube Lins Official" />
-  </a>
-  <br>
-  <a href="https://linsofc-store.vercel.app"><strong>🌐 Visit Linsofc Store Website</strong></a>
-</p>
+## Connect With Me
 
 <div align="center">
-  <a href="https://www.youtube.com/@LinsOfficiall"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider"></a>
+
+<a href="https://linsofc.my.id">
+  <img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=google-chrome&logoColor=1B6FEB" alt="Website"/>
+</a>
+<a href="https://instagram.com/hey_lynzz">
+  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+</a>
+<a href="https://linkedin.com/in/linsofc">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+</a>
+<a href="https://youtube.com/@LinsOfficiall">
+  <img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"/>
+</a>
+<a href="https://linsofc-store.vercel.app">
+  <img src="https://img.shields.io/badge/Store-0d1117?style=for-the-badge&logo=shopify&logoColor=1B6FEB" alt="Linsofc Store"/>
+</a>
+
+<br/>
+
+<p>
+  <sub>Let's connect, collaborate, and build something great.</sub>
+</p>
+
 </div>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1B6FEB,100:0d1117&height=120&section=footer" width="100%" alt="Footer"/>
