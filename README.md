@@ -1,6 +1,6 @@
 <p align="center">
   <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px alt="Linsofc Animation"></picture>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Saiful+Rijal+(Linsofc)!;Welcome+to+my+GitHub+Profile!;Fullstack+Developer+%7C+Script+Maker;Owner+of+Linsofc+Store" alt="Hi I'm Saiful Rijal Linsofc" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Saiful+Rijal+(Linsofc)!;Welcome+to+my+GitHub+Profile!;Fullstack+Developer+%7C+Script+Maker" alt="Hi I'm Saiful Rijal Linsofc" />
 </p>
 
 <div align="center">
