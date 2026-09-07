@@ -5,3 +5,5 @@
 <img src="./dark_nobg.png" width="100" alt="Linsofc"/>
 
 <img src="./light.png" width="100" alt="Linsofc"/>
+
+<img src="./light_nobg.png" width="100" alt="Linsofc"/>
